@@ -13,6 +13,10 @@ The company aims to analyze its performance trends, identify the causes of busin
 - 6.Sales grew by 48% in Q4 2015, but growth was limited in June. Can strategies be adjusted to achieve more balanced sales growth throughout the year?
  
 - Sum of Sales by Month Year <a href="https://github.com/s942509/Analysis-of-a-global-company/blob/main/Sum%20of%20Sales%20by%20Month%20Year.png ">View </a>
+## Dashboard
+
+![Dashboard.png](https://github.com/s942509/Analysis-of-a-global-company/blob/main/Dashboard.png)
+
 
 - Comparison of Total Sales by Global Markets and Categories <a href="https://github.com/s942509/Analysis-of-a-global-company/blob/main/Comparison%20of%20Total%20Sales%20by%20Global%20Markets%20and%20Categories.png">View </a>
 
