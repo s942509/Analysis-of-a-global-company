@@ -20,7 +20,7 @@ The company aims to analyze its performance trends, identify the causes of busin
 
 ![Dashboard.png](https://github.com/s942509/Analysis-of-a-global-company/blob/main/Dashboard.png)
 
-## Project Insight
+## Project Insights
 - Sales consistently drop in July and October, likely due to Sales Incentive settlements or fiscal year-end effects.=>Align procurement and sales strategies with seasonal demand fluctuations to maintain stable revenue.
 - Sales increase significantly in November and December, but total profit does not rise proportionally.=>
 Potential causes include heavy discounting, increased shipping costs, or higher raw material expenses.
@@ -30,5 +30,8 @@ Investigate whether discounts, rising costs, or inefficient pricing strategies c
 Identifying successful sales strategies in high-growth regions can help expand market share.
 
 - While Q4 2015 saw strong growth (+48% in November), June sales remained stagnant.=>Implementing targeted marketing campaigns and demand forecasting can distribute sales growth more evenly throughout the year.
+  
+## Final Conclusion
+The data analysis reveals clear seasonal trends and profitability challenges, particularly in Q4 and specific product categories. While sales are growing year over year, fluctuations in cash flow and profit margins highlight the need for better cost control, optimized discounting strategies, and regional expansion planning. By addressing these insights, the company can enhance financial stability and maximize long-term growth.
 
 
