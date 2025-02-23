@@ -20,3 +20,15 @@ The company aims to analyze its performance trends, identify the causes of busin
 
 ![Dashboard.png](https://github.com/s942509/Analysis-of-a-global-company/blob/main/Dashboard.png)
 
+## Project Insight
+- Sales consistently drop in July and October, likely due to Sales Incentive settlements or fiscal year-end effects.=>Align procurement and sales strategies with seasonal demand fluctuations to maintain stable revenue.
+- Sales increase significantly in November and December, but total profit does not rise proportionally.=>
+Potential causes include heavy discounting, increased shipping costs, or higher raw material expenses.
+- Despite rapid sales growth in 2015, the Furniture category experienced declining profit.=>
+Investigate whether discounts, rising costs, or inefficient pricing strategies contributed to lower margins.
+- The US (USCA) had significant sales growth from October to November 2013, followed by Latin America.=>
+Identifying successful sales strategies in high-growth regions can help expand market share.
+
+- While Q4 2015 saw strong growth (+48% in November), June sales remained stagnant.=>Implementing targeted marketing campaigns and demand forecasting can distribute sales growth more evenly throughout the year.
+
+
