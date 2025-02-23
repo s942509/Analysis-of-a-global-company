@@ -15,4 +15,10 @@ The company aims to analyze its performance trends, identify the causes of busin
 - Sum of Sales by Month Year <a href="https://github.com/s942509/Analysis-of-a-global-company/blob/main/Sum%20of%20Sales%20by%20Month%20Year.png ">View </a>
 
 - Comparison of Total Sales by Global Markets and Categories <a href="https://github.com/s942509/Analysis-of-a-global-company/blob/main/Comparison%20of%20Total%20Sales%20by%20Global%20Markets%20and%20Categories.png">View </a>
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
 
